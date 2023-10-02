@@ -34,5 +34,11 @@ console.log(+true);
 // console.log(true+);
 // console.log(""+);
 console.log(+"");
+let n1,n2,n3
+n1=n2=n3=2+8
+
+let gc=100
+++gc;
+console.log(gc);
 
 
