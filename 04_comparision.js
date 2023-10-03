@@ -9,7 +9,7 @@ console.log(undefined<=0);
 console.log(undefined>=0);
 console.log(undefined!=0);
 
-// This is conditions are lead to confussion
+// These conditions will lead to confussion
 
 // === condition check without changing datatype
 
