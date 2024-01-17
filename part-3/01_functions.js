@@ -31,3 +31,7 @@ function developer(Username){
 }
 console.log(developer("Siddu Mashyal"));
 
+// a=2=="2" it will compare without changing datatype
+//a==="2" it will compare after the change of datatype.
+// console.log(a);
+
